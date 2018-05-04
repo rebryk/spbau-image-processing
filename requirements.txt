@@ -1,8 +1,11 @@
+bitarray==0.8.1
 bleach==2.1.2
 certifi==2018.1.18
 cycler==0.10.0
 decorator==4.2.1
 entrypoints==0.2.3
+future==0.16.0
+gist==0.1
 html5lib==1.0.1
 ipykernel==4.8.2
 ipython==6.2.1
@@ -15,6 +18,7 @@ jupyter==1.0.0
 jupyter-client==5.2.2
 jupyter-console==5.2.0
 jupyter-core==4.4.0
+lshash3==0.0.8
 MarkupSafe==1.0
 matplotlib==2.1.2
 mistune==0.8.3
@@ -36,14 +40,17 @@ python-dateutil==2.6.1
 pytz==2018.3
 pyzmq==16.0.3
 qtconsole==4.3.1
+scikit-learn==0.19.1
 scipy==1.0.0
 seaborn==0.8.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
+sklearn==0.0
 terminado==0.8.1
 testpath==0.3.1
 tornado==4.5.3
+tqdm==4.22.0
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
