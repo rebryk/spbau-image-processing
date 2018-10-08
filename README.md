@@ -5,10 +5,10 @@ SPbAU image processing course, Spring '18
 `pip install -r requirements.txt`
 
 ## Content
-* [Basics](task01/task01.ipynb)
-* [Image denoising](task02/task02.ipynb) 
-* [Contour detection](task03/task03.ipynb)
-* [Content-based image retrieval](task04/task04.ipynb)
+* [task01](task01/task01.ipynb) — basics
+* [task02](task02/task02.ipynb) — image denoising
+* [task03](task03/task03.ipynb) — contour detection
+* [task04](task04/task04.ipynb) — content-based image retrieval
 
 ## License
 [MIT](LICENSE)
